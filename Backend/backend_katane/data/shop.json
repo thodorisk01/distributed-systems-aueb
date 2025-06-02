@@ -1,0 +1,29 @@
+[
+  {
+    "storeName": "Eklekton Souvlaki",
+    "latitude": 23.2998263,
+    "longitude": 15.231234,
+    "foodCategory": "souvlakia",
+    "stars": 3,
+    "products": [
+      {
+        "productName": "Pita",
+        "productType": "souvlaki",
+        "availableAmount": 50,
+        "price": 3.5
+      },
+      {
+        "productName": "Kalamaki Kotopoulo",
+        "productType": "kalamakia kotopoulo",
+        "availableAmount": 100,
+        "price": 2.0
+      },
+      {
+        "productName": "Kalamaki Xoirino",
+        "productType": "kalamakia xoirino",
+        "availableAmount": 50,
+        "price": 2.0
+      }
+    ]
+  }
+]

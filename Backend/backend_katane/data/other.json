@@ -1,0 +1,29 @@
+[
+  {
+    "storeName": "Pizza Fun",
+    "latitude": 37.9932963,
+    "longitude": 23.733413,
+    "foodCategory": "pizzeria",
+    "stars": 4,
+    "products": [
+      {
+        "productName": "Margherita",
+        "productType": "pizza",
+        "availableAmount": 100,
+        "price": 7.5
+      },
+      {
+        "productName": "Pepperoni",
+        "productType": "pizza",
+        "availableAmount": 80,
+        "price": 8.5
+      },
+      {
+        "productName": "Caesar Salad",
+        "productType": "salad",
+        "availableAmount": 50,
+        "price": 6.0
+      }
+    ]
+  }
+]

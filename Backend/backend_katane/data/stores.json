@@ -1,0 +1,110 @@
+[
+  {
+    "storeName": "Pizza Fun",
+    "latitude": 37.9932963,
+    "longitude": 23.733413,
+    "foodCategory": "pizzeria",
+    "stars": 4,
+    "products": [
+      {
+        "productName": "Margherita",
+        "productType": "pizza",
+        "availableAmount": 100,
+        "price": 7.5
+      },
+      {
+        "productName": "Pepperoni",
+        "productType": "pizza",
+        "availableAmount": 80,
+        "price": 8.5
+      },
+      {
+        "productName": "Caesar Salad",
+        "productType": "salad",
+        "availableAmount": 50,
+        "price": 6.0
+      }
+    ]
+  },
+  {
+    "storeName": "Eklekton Souvlaki",
+    "latitude": 23.2998263,
+    "longitude": 15.231234,
+    "foodCategory": "souvlakia",
+    "stars": 3,
+    "products": [
+      {
+        "productName": "Pita",
+        "productType": "souvlaki",
+        "availableAmount": 50,
+        "price": 3.5
+      },
+      {
+        "productName": "Kalamaki Kotopoulo",
+        "productType": "kalamakia kotopoulo",
+        "availableAmount": 100,
+        "price": 2.0
+      },
+      {
+        "productName": "Kalamaki Xoirino",
+        "productType": "kalamakia xoirino",
+        "availableAmount": 50,
+        "price": 2.0
+      }
+    ]
+  },
+  {
+    "storeName": "Pasta Mama",
+    "latitude": 33.1254856,
+    "longitude": 13.145852,
+    "foodCategory": "pastafood",
+    "stars": 4,
+    "products": [
+      {
+        "productName": "Napolitana",
+        "productType": "pasta",
+        "availableAmount": 50,
+        "price": 9.5
+      },
+      {
+        "productName": "Bolognese",
+        "productType": "pasta",
+        "availableAmount": 50,
+        "price": 8.5
+      },
+      {
+        "productName": "Chicken",
+        "productType": "pasta",
+        "availableAmount": 50,
+        "price": 8.0
+      }
+    ]
+  },
+  {
+    "storeName": "Burger Wrap",
+    "latitude": 34.2365895,
+    "longitude": 18.125888,
+    "foodCategory": "burgers",
+    "stars": 4,
+    "products": [
+      {
+        "productName": "Chicken",
+        "productType": "burger",
+        "availableAmount": 100,
+        "price": 8.5
+      },
+      {
+        "productName": "Golden",
+        "productType": "burger",
+        "availableAmount": 90,
+        "price": 8.0
+      },
+      {
+        "productName": "Cheddar Bacon",
+        "productType": "burger",
+        "availableAmount": 65,
+        "price": 9.0
+      }
+    ]
+  }
+]

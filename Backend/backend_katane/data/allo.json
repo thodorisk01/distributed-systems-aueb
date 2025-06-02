@@ -1,0 +1,29 @@
+[
+  {
+    "storeName": "Burger Wrap",
+    "latitude": 34.1265895,
+    "longitude": 13.145888,
+    "foodCategory": "burgers",
+    "stars": 4,
+    "products": [
+      {
+        "productName": "Chicken",
+        "productType": "burger",
+        "availableAmount": 100,
+        "price": 8.5
+      },
+      {
+        "productName": "Golden",
+        "productType": "burger",
+        "availableAmount": 90,
+        "price": 8.0
+      },
+      {
+        "productName": "Cheddar Bacon",
+        "productType": "burger",
+        "availableAmount": 65,
+        "price": 9.0
+      }
+    ]
+  }
+]
